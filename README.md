@@ -5,12 +5,7 @@
  
 
 <h2>Overview:</h2>
-As a Risk Analyst at a healthcare organization facing rising cybersecurity threats, I led the 
-implementation of IT risk management practices using the COBIT framework. With healthcare 
-data increasingly targeted, a structured approach was essential to align cybersecurity with 
-business objectives, enhance risk awareness, and strengthen controls. By integrating COBIT, we 
-transformed cybersecurity from a reactive challenge into a proactive strategy, ensuring the 
-protection of patient data and the resilience of critical systems. I followed the following process: 
+As a Risk Analyst at a healthcare organization facing rising cybersecurity threats, I led the implementation of IT risk management practices using the COBIT framework. With healthcare data increasingly targeted, a structured approach was essential to align cybersecurity with business objectives, enhance risk awareness, and strengthen controls. By integrating COBIT, we transformed cybersecurity from a reactive challenge into a proactive strategy, ensuring the protection of patient data and the resilience of critical systems. I followed the following process: 
 <br />
 
 
